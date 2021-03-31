@@ -2,4 +2,5 @@
 int main(void)
 {
 	printf("Hi, I am shweta");
+	return 0;
 }
